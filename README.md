@@ -4,7 +4,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>The Via Verse</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -34,16 +33,4 @@
     </nav>
   </div>
 
-  <script>
-    document.getElementById('secret-link').addEventListener('click', function(e) {
-      e.preventDefault();
-      const pass = prompt('Speak the magic word:');
-      if (pass && pass.toLowerCase() === 'lumos') {
-        window.location.href = 'secret.html';
-      } else {
-        alert('The spell fizzles... Try again.');
-      }
-    });
-  </script>
-</body>
-</html>
+
