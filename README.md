@@ -43,3 +43,4 @@ body {
   background-attachment: fixed;
   background-position: center;
 }
+<link rel="stylesheet" href="style.css">
