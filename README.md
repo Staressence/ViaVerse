@@ -31,5 +31,25 @@
       </ul>
     </nav>
   </div>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Custom Background</title>
+  <style>
+    body {
+      /* Use the image as the background */
+      background-image: url('https://github.com/user-attachments/assets/b332a1c8-b9d5-4351-a8d6-7e5e1e93d554');
+      background-size: cover;        /* Make the image cover the whole background */
+      background-repeat: no-repeat;  /* Prevent the image from repeating */
+      background-position: center;   /* Center the image */
+      min-height: 100vh;             /* Ensure the body takes at least full viewport height */
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <!-- Your content goes here -->
+</body>
+</html>
 
