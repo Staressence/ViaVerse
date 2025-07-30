@@ -36,7 +36,7 @@
 <head>
   <meta charset="UTF-8">
 body {
-  background-image: url(![leopard jpg](https://github.com/user-attachments/assets/768ef7d3-603b-4ed7-84f6-b45a1d27c175));
+  background-image: url(![leopard jpg](https://github.com/user-attachments/assets/43f31f52-4901-4a23-8470-187f6fe30554));
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -44,7 +44,3 @@ body {
 } 
 <head>
   <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <!-- your content -->
-</body>
