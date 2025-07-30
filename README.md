@@ -36,11 +36,15 @@
 <head>
   <meta charset="UTF-8">
 body {
-  background-image: url(![leopard jpg](https://github.com/user-attachments/assets/9f0ba8fd-faf3-486a-9652-1dc8cf662ab0)
-);
+  background-image: url(![leopard jpg](https://github.com/user-attachments/assets/768ef7d3-603b-4ed7-84f6-b45a1d27c175));
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-}
-<link rel="stylesheet" href="style.css">
+} 
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- your content -->
+</body>
