@@ -35,3 +35,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+body {
+  background-image: url(![leopard jpg](https://github.com/user-attachments/assets/9f0ba8fd-faf3-486a-9652-1dc8cf662ab0)
+);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
